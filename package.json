@@ -1,0 +1,19 @@
+{
+  "name": "labcorp",
+  "version": "1.0.0",
+  "description": "Labcorp is an expense management web application.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Lee Greaney",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0"
+  }
+}
