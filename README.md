@@ -1,6 +1,7 @@
 # Labcorp
 Labcorp is a web application designed to manage and track expenses efficiently.
 The app offers a user-friendly interface to input, categorize, and view expenses.
+
 Whether you're an individual or a small business, Labcorp simplifies the process of expense management. 
 Built with modern web technologies, it provides a smooth and responsive experience, ensuring that you can keep track of your finances effortlessly. 
 The project is maintained by Lee Greaney, who brings extensive experience in full-stack development and is dedicated to helping others improve their coding skills.
@@ -21,14 +22,15 @@ The project is maintained by Lee Greaney, who brings extensive experience in ful
 - **Name** Lee Greaney 
 - **Email**: lee186greaney@outlook.com  
 - **Website**: Labcorp 
-Lee is a seasoned full-stack developer with a passion for creating intuitive and efficient web applications. He is known for his expertise in React.js and his commitment to helping the developer community through open-source projects.
+- Lee is a seasoned full-stack developer with a passion for creating intuitive and efficient web applications.
+-  He is known for his expertise in React.js and his commitment to helping the developer community through open-source projects.
 
 ## Getting Started
 To get started with the project, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/labcorp.git
+    git clone https://github.com/lee186g/labcorp.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
